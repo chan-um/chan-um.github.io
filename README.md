@@ -1,3 +1,3 @@
 # webportfolio
 
-Yoon Kim's Web Portfolio
+Chan Um's Web Portfolio
